@@ -85,7 +85,7 @@ loadingRender.init();
 ~ function () {
     // 获取需要操作的元素
     var musicBox = document.querySelector('.musicBox'),
-        musicAdudio = document.querySelector('#musicAdudio');
+        musicAdudio = document.querySelector('#musicAudio');
 
     function musicPlay() {
         musicAdudio.play();
